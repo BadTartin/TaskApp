@@ -1,4 +1,6 @@
 import "./style.css";
+import "style.css";
+// import styles from "./style.css"
 import { format, parse } from "date-fns";
 import {
   tasks,
